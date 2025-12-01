@@ -1,5 +1,4 @@
 # Linear_Regression_on_Insurance_price_predection
-Based on the `Linear_Regression _Insurance_Price.ipynb` notebook you provided, here is the structured description of your project.
 
 ### **Project Title: Medical Insurance Cost Prediction using Linear Regression**
 
