@@ -114,7 +114,7 @@ To validate the reliability of the Linear Regression, assumptions were tested:
 ### **Structured Interpretation of the Regression Model**
 
 #### **1. The Formula**
-$$\text{Cost} = -8392.36 + 222.79(\text{Age}) + 259.66(\text{BMI}) + 516.25(\text{Children}) + 19978.40(\text{Smoker}) - 904.92(\text{SE}) - 723.91(\text{SW})$$
+{Cost} = -8392.36 + 222.79({Age}) + 259.66({BMI}) + 516.25({Children}) + 19978.40({Smoker}) - 904.92({SE}) - 723.91({SW})
 
 ---
 
